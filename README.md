@@ -3,7 +3,7 @@
 A computer vision based project that detects, recognizes faces of people and stores the time of detection in a .csv file. This is based on the [face_recognition](https://github.com/ageitgey/face_recognition) library by Adam Geitgey. [Click here](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) to find out how it works.
 Some of the applications of this project include:
 - In schools, colleges, organization and event venues to mark the attendance of people coming in.
-- In home surveillance systems to raise an alert if an unkown person is approaching and track the them.
+- In home surveillance systems to raise an alert if an unkown person is approaching and track the them (This is still a work in progress and will be implemented in the future).
 - Using it with speech recognition in humanoid robots to personalize conversations.
 
 In schools, this can be used with a database to maintain the attendance record of students and the .csv file can also store the place of detection in surveillance systems.
