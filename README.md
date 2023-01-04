@@ -1,4 +1,4 @@
-# Face Recognizer Bot
+# Face Recognition Bot
 
 A computer vision based project that detects and recognizes the faces of people and stores the time of detection in a .csv file. This is based on the [face_recognition](https://github.com/ageitgey/face_recognition) library by Adam Geitgey. [Click here](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) to find out how it works.
 Some of the applications of this project include:
